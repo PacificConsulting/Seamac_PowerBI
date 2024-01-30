@@ -15,7 +15,7 @@ page 50000 "All RFQ List"
                 field("No."; Rec."No.")
                 {
                     ApplicationArea = All;
-
+                    //
                 }
                 field(Date; Rec.Date)
                 {
